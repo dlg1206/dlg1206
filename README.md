@@ -14,6 +14,7 @@ My name's Derek and I've got a crippling addiction to Caffine and Programming.
   - HTML / CSS
   - C#
   - C
+  - Bash
   - MIPS Assembly
 
 - 🏃‍♂️My Hobbies include Running, Hiking, Pioneering, and Coffee Brewing
