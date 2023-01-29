@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name's Derek and I've got a crippling addiction to Caffine and Programming.
+My name's Derek and I've got a crippling addiction to Caffeine and Programming.
 
 ---
 ### About Me
