@@ -17,7 +17,7 @@ My name's Derek and I've got a crippling addiction to Caffeine and Programming.
   - Bash
   - MIPS Assembly
 
-- 🏃‍♂️My Hobbies include Running, Hiking, Pioneering, and Coffee Brewing
+- 🏃‍ ♂My Hobbies include Running, Hiking, Pioneering, and Coffee Brewing
   
 - 🌱 I’m currently learning more about Full Stack Development
   
@@ -25,11 +25,10 @@ My name's Derek and I've got a crippling addiction to Caffeine and Programming.
 
 - 🔭 Check out what I'm working on [here](https://derek-garcia.ddns.net/finances-web-app/)!
 
-- 🖩 Fun Fact: My first language was [TI-Basic](https://en.wikipedia.org/wiki/TI-BASIC)!
+- ❗ Fun Fact: My first language was [TI-Basic](https://en.wikipedia.org/wiki/TI-BASIC)!
   
 ---
 ### Want to Learn More?
 - 🌐 [Website](https://derek-garcia.ddns.net)
 - 🟦 [LinkedIn](https://www.linkedin.com/in/derek-garcia/)
 - 📧 [Email](mailto:dlg1206@rit.edu)
-
