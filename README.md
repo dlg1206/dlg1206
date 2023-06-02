@@ -17,7 +17,7 @@ My name's Derek and I've got a crippling addiction to Caffeine and Programming.
   - Bash
   - MIPS Assembly
 
-- 🏃‍ ♂My Hobbies include Running, Hiking, Pioneering, and Coffee Brewing
+- 🏃‍ My Hobbies include Running, Hiking, Pioneering, and Coffee Brewing
   
 - 🌱 I’m currently learning more about Full Stack Development
   
