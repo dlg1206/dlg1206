@@ -6,7 +6,6 @@ My name's Derek and I've got a crippling addiction to Caffeine and Programming.
 ### About Me
 - 🐯 I'm a Full Time Student at [Rochester Institue of Technology](https://www.rit.edu/)
   - _BS in Computer Science `24_
-  - _Minor in Cybersecurity `24_
   
 - ☕ My Favorite Language is `Java`, but I'm experienced in:
   - Python
@@ -19,7 +18,7 @@ My name's Derek and I've got a crippling addiction to Caffeine and Programming.
 
 - 🏃‍ My Hobbies include Running, Hiking, Pioneering, and Coffee Brewing
   
-- 🌱 I’m currently learning more about Full Stack Development
+- 🌱 I’m currently learning more about Docker and Networking
   
 - ✅ Take a look at my latest project [here](https://github.com/dlg1206/RIT-Schedule-Maker)!
 
