@@ -4,7 +4,7 @@
 My name's Derek and I've got a crippling addiction to Caffeine and Programming.
 
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlg1206&theme=onedark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlg1206&theme=onedark&hide_rank=true)](https://github.com/dlg1206)
 ### About Me
 - 🐯 I'm a Full Time Student at [Rochester Institue of Technology](https://www.rit.edu/)
   - _BS in Computer Science `24_
