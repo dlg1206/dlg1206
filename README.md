@@ -23,6 +23,7 @@ My name's Derek and I've got a crippling addiction to caffeine, programming, and
 - 🔭 Check out what I'm working on [here](https://derek-garcia.ddns.net/finances-web-app/)!
 
 - ❗ Fun Fact: My first language was [TI-Basic](https://en.wikipedia.org/wiki/TI-BASIC)!
+  - I'm still ( or at least try to be ) active in the community. You can check out a few of my projects and more [here](https://www.cemetech.net/downloads/users/TI_84_Coder). Turns out you can do a lot with a graphing calculator! 
   
 ---
 ### Want to Learn More?
