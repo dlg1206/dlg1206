@@ -7,7 +7,7 @@ My name's Derek and I've got a crippling addiction to caffeine, programming, and
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlg1206&theme=onedark&hide_rank=true)](https://github.com/dlg1206)
 ### About Me
 - 🎓 **Ph.D.** Student in Computer Science at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) 🌈
-- 🎓 **B.S.** in Computer Science from [Rochester Institue of Technology](https://www.rit.edu/) 🐯 `24
+- 🎓 **B.S.** in Computer Science from [Rochester Institute of Technology](https://www.rit.edu/) 🐯 `24
   
 - ☕ My Favorite Language is `Java`, but I've got experience with languages from `Python` to `C`. My language todos include:
   - [ ] Go
