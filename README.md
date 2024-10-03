@@ -16,7 +16,7 @@ My name's Derek and I've got a crippling addiction to caffeine, programming, and
 
 - 🏃‍ My Hobbies include running, hiking, pioneering, and brewing coffee
   
-- 🌱 I’m currently learning more about [formal](https://en.wikipedia.org/wiki/Formal_methods) methods and Rust 🦀
+- 🌱 I’m currently learning more about [formal methods](https://en.wikipedia.org/wiki/Formal_methods) and Rust 🦀
 
 - 🔭 Check out what I'm working on [here](https://github.com/dlg1206/rainbow-api)!
 
