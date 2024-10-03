@@ -14,13 +14,11 @@ My name's Derek and I've got a crippling addiction to caffeine, programming, and
   - [ ] Rust 🦀
   - [ ] Front End Development
 
-- 🏃‍ My Hobbies include Running, Hiking, Pioneering, and Coffee Brewing
+- 🏃‍ My Hobbies include running, hiking, pioneering, and brewing coffee
   
-- 🌱 I’m currently learning more about Docker and Networking
-  
-- ✅ Take a look at my latest project [here](https://github.com/dlg1206/rainbow-api)!
+- 🌱 I’m currently learning more about [formal](https://en.wikipedia.org/wiki/Formal_methods) methods and Rust 🦀
 
-- 🔭 Check out what I'm working on [here](https://derek-garcia.ddns.net/finances-web-app/)!
+- 🔭 Check out what I'm working on [here](https://github.com/dlg1206/rainbow-api)!
 
 - ❗ Fun Fact: My first language was [TI-Basic](https://en.wikipedia.org/wiki/TI-BASIC)!
   - I'm still ( or at least try to be ) active in the community. You can check out a few of my projects and more [here](https://www.cemetech.net/downloads/users/TI_84_Coder). Turns out you can do a lot with a graphing calculator! 
