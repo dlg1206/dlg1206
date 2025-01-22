@@ -8,6 +8,7 @@ My name's Derek and I've got a crippling addiction to caffeine, programming, and
 ### About Me
 - 🎓 **Ph.D.** Student in Computer Science at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) 🌈
 - 🎓 **B.S.** in Computer Science from [Rochester Institute of Technology](https://www.rit.edu/) 🐯 `24
+  - 🧪 Research Interests: Open Source Software Supply Chain Security, Formal Methods
   
 - ☕ My Favorite Language is `Java`, but I've got experience with languages from `Python` to `C`. My language todos include:
   - [ ] Go
