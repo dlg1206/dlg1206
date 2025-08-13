@@ -26,6 +26,7 @@ My name's Derek and I've got a crippling addiction to caffeine, programming, and
   
 ---
 ### Want to Learn More?
-- 🌐 [Website](https://derek-garcia.ddns.net)
+- 🌐 [Website](https://derek-garcia.com)
 - 🟦 [LinkedIn](https://www.linkedin.com/in/derek-garcia/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=_drXjQ4AAAAJ)
 - 📧 [Email](mailto:dgarcia2@hawaii.edu)
